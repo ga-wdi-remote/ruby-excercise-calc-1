@@ -10,7 +10,7 @@ Your calculator will ask for 4 inputs:
 - # of people
 - Give an option of how much tip to leave
 - % tax
-
+___
 After you input these 3 in the calculator, the calculator should take those inputs into a mathematical calculation and give us the total and how much each person pays. 
 
 The user flow and messages you send are completely up to you!
